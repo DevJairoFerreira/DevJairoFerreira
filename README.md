@@ -42,3 +42,10 @@
 <h3 align="left">bio: ------------------------------------------------------------------------------------------------------------------------------------</h3>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DevJairoFerreira/DevJairoFerreira/output/snake.svg" alt="Snake animation" />
+
+
+###
